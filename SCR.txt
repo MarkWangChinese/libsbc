@@ -1,0 +1,10 @@
+
+Package: libsbc
+Version: 0.0.1
+Outgoing License: Apache-2.0
+License File: LICENSE
+Type of Content: source code, header files
+Description and comments: Android Bluetooth SBC encoder/decoder
+Release Location: 
+Origin: 
+      Android (Apache-2.0) - https://cs.android.com/android/platform/superproject/main/+/main:packages/modules/Bluetooth/system/embdrv/sbc/;drc=c4611d04b29b74a2d9316a0ae195fe496a4e6d01
